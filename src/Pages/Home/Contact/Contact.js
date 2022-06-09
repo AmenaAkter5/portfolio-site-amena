@@ -39,10 +39,10 @@ const Contact = () => {
             </div>
             <div>
                 <form ref={form} onSubmit={sendEmail} className='contact-form'>
-                    <input type="text" name="user_name" id="" placeholder='Enter your name' />
-                    <input type="email" name="user_email" placeholder='Enter your email address' />
-                    <textarea name="message" cols="50" rows="5" placeholder='Write your message' />
-                    <input className='text-primary' type="submit" value="Send" />
+                    <input className='text-white' type="text" name="user_name" id="" placeholder='Enter your name' />
+                    <input className='text-white' type="email" name="user_email" placeholder='Enter your email address' />
+                    <textarea className='text-white' name="message" cols="50" rows="5" placeholder='Write your message' />
+                    <input className='text-white fw-bold' type="submit" value="Send" />
                 </form>
             </div>
 

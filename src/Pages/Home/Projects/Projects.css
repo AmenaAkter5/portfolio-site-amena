@@ -1,5 +1,6 @@
 .project-section {
     background-color: white;
+    padding: 20px 0;
 }
 
 .project-container {
@@ -17,12 +18,11 @@
     border-style: solid;
     border-width: 1px;
     background-color: #0f0f0f;
-    border-color: rgba(92, 225, 21, 0.5);
     border-radius: 18px;
 }
 
 .project p {
-    padding: 1px;
+    padding: 0 20px;
     padding-top: 8px;
     letter-spacing: 1px;
     color: rgb(165, 165, 165);

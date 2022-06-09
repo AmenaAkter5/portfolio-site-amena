@@ -12,8 +12,8 @@ const Projects = () => {
     return (
         <section className='project-section'>
             <div>
-                <p className='text-center text-white'>BEST Projects</p>
-                <h4 className='text-center gradient-text-one'>Projects of Amena Akter</h4>
+                <h5 className='text-center fw-bold'>BEST Projects</h5>
+                <h2 className='text-center gradient-text-one'>Projects of Amena Akter</h2>
             </div>
             <div className='project-container'>
                 <div>

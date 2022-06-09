@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
+import { FaFacebook, FaLinkedin, FaTwitter, FaYoutube } from 'react-icons/fa';
 import './Footer.css';
 
 const Footer = () => {
@@ -40,7 +40,7 @@ const Footer = () => {
 
                     <div className='social-icon-container'>
                         <a href="https://www.linkedin.com/in/amena-akter/"><FaFacebook className='social-icon' /></a>
-                        <a href="https://www.linkedin.com/in/amena-akter/"><FaInstagram className='social-icon'></FaInstagram></a>
+                        <a href="https://www.linkedin.com/in/amena-akter/"><FaLinkedin className='social-icon'></FaLinkedin></a>
                         <a href="https://www.linkedin.com/in/amena-akter/"><FaTwitter className='social-icon'></FaTwitter></a>
                         <a href="https://www.linkedin.com/in/amena-akter/"><FaYoutube className='social-icon'></FaYoutube></a>
                     </div>
