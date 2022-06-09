@@ -1,0 +1,12 @@
+.navbar-style {
+    background-color: #0f0f0f;
+}
+
+.title-logo {
+    font-family: 'Playfair Display', serif;
+    color: #333;
+}
+
+#responsive-navbar-nav {
+    margin-left: 10px !important;
+}

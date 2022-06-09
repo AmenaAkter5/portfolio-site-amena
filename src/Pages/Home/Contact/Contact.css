@@ -1,0 +1,36 @@
+.contact-section {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    padding: 80px 100px;
+    background-color: #111111;
+}
+
+
+.contact-form input:nth-child(-n + 2) {
+    margin: 10px;
+    width: 315px;
+    border-radius: px;
+    padding: 10px 20px;
+    background-color: #111111;
+}
+
+.contact-form input:nth-last-child(-n + 2),
+.contact-form textarea {
+    display: block;
+    width: 650px;
+    margin: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    border: 1px solid rgba(92, 225, 21, 0.5);
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: #111111;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: 1px solid rgba(92, 225, 21, 0.5);
+}
