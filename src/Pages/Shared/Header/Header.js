@@ -10,17 +10,17 @@ const Header = () => {
     return (
         <Navbar sticky='top' className='navbar-style p-2' collapseOnSelect expand="lg" variant="light">
             <Container>
-                <Navbar.Brand className='title-logo fs-4 fw-bold text-white' as={Link} to="/">Magic Manik</Navbar.Brand>
+                <Navbar.Brand className='title-logo fs-4 fw-bold text-white' as={Link} to="/">Amena Akter</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
 
                     </Nav>
                     <Nav>
-                        <Nav.Link className='text-white fs-7' href={resume} download='manik-islam-mahi-junior-web-developer'>
+                        <Nav.Link className='text-white fs-7' href={resume} download='Amena_Akter_Front_End_Web_Developer'>
                             Download Resume
                         </Nav.Link>
-                        <Nav.Link className='text-white fs-7'>
+                        <Nav.Link href='#contact' className='text-white fs-7'>
                             Contact Me
                         </Nav.Link>
                         <Nav.Link className='text-white fs-7'>

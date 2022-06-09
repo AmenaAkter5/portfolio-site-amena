@@ -1,5 +1,6 @@
 .project-section {
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
+    background-color: white;
 }
 
 .project-container {
@@ -16,6 +17,7 @@
 .project {
     border-style: solid;
     border-width: 1px;
+    background-color: #0f0f0f;
     border-color: rgba(92, 225, 21, 0.5);
     border-radius: 18px;
 }
