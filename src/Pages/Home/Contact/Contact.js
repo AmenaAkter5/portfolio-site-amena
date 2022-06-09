@@ -25,17 +25,17 @@ const Contact = () => {
                     console.log(error.text);
                 }
             );
+        e.target.reset();
     };
 
     return (
         <section id='contact' className='contact-section'>
-            <div>
+            <div className='text-white'>
                 <h4>Reach Me</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolorum a neque.</p>
+                <p>You can reach me out there...</p>
                 <p>Dhaka, Bangladesh</p>
-                <p>Kafrul 1206</p>
-                <p>+8801682440404</p>
-                <p>contact@magicmanik.com</p>
+                <p>+8801718340089</p>
+                <p>amenaakter1952@gmail.com</p>
             </div>
             <div>
                 <form ref={form} onSubmit={sendEmail} className='contact-form'>

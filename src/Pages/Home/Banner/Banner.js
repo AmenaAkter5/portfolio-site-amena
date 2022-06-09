@@ -8,9 +8,9 @@ const Banner = () => {
             <div>
                 <img src={image} alt="Manik Islam Mahi" />
             </div>
-            <div>
+            <div className='description'>
                 <h3>
-                    Hello, My name is <span className='gradient-text-one'>Amena</span> I love design and i hope to make awesome designs and also i create a Landing Pages, Dynamic Pages.
+                    Hello, My name is <span className='gradient-text-one'>Amena</span> and I am a Front End Web Developer. I love Coding. I am experienced to develop your expected website's functionality. I love to learn and like to explore new thing through my work experience. If you think we can work together to do great thing, then you can contact with me!
                 </h3>
             </div>
             <div className='d-flex mx-5'>

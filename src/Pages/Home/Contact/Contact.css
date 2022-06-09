@@ -34,3 +34,27 @@
 .contact-form textarea:focus {
     outline: 1px solid rgba(92, 225, 21, 0.5);
 }
+
+
+@media screen and (max-width: 576px) {
+    .contact-section {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: space-between;
+        padding: 80px 10px;
+    }
+
+    .contact-form input:nth-child(-n + 2) {
+        display: block;
+        margin: 10px;
+        width: 95%;
+        padding: 10px 20px;
+    }
+
+    .contact-form input:nth-last-child(-n + 2),
+    .contact-form textarea {
+        display: block;
+        width: 95%;
+        margin: 10px;
+    }
+}
