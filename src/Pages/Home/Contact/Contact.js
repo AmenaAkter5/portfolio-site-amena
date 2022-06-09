@@ -30,7 +30,7 @@ const Contact = () => {
 
     return (
         <section id='contact' className='contact-section'>
-            <div className='text-white'>
+            <div className='text-white text-center'>
                 <h4>Reach Me</h4>
                 <p>You can reach me out there...</p>
                 <p>Dhaka, Bangladesh</p>
