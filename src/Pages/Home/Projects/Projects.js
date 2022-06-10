@@ -33,7 +33,7 @@ const Projects = () => {
                         <div key={project._id}>
                             <div className='project'>
                                 <a href="/"><img src={project.img1} alt="" /></a>
-                                <p className='px-1'>This is a compact Warehouse Management application. And This application provides different types of storing packages of fruits according to clients' demands.</p>
+                                <p className='px-1'>{project.des1} {project.des2}</p>
                                 <button className='btn btn-primary mb-3 ms-2' onClick={() => handleDetails(project._id)}>Explore more</button>
                             </div>
                         </div>)
