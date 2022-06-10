@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import resume from '../../../assets/resume/Manik-Islam-Mahi-Junior-Web-Developer.pdf';
+import resume from '../../../assets/resume/Amena_Akter_Front_End_Web_Developer.pdf';
 
 import './Header.css'
 

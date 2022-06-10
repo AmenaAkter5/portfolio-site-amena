@@ -1,6 +1,7 @@
 import React from 'react';
 import image from '../../../assets/images/amena.png';
 import './Banner.css'
+// import Counter from './Counter';
 
 const Banner = () => {
     return (
@@ -25,6 +26,7 @@ const Banner = () => {
                     <h1>
                         16
                     </h1>
+                    {/* <Counter end={16} start={1}></Counter> */}
                     <p>
                         PROJECTS <br></br> COMPLETED</p>
                 </div>

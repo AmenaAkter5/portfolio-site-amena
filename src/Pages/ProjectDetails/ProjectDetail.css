@@ -1,0 +1,42 @@
+.details-container {
+    background-color: black;
+    padding: 50px;
+}
+
+.details-container img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 18px;
+}
+
+.details-container ul {
+    text-align: center;
+    margin: 40px;
+    color: aliceblue;
+}
+
+
+.anchor {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 576px) {
+    .details-container {
+        padding: 10px;
+    }
+
+    .details-container img {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+    }
+
+
+    .details-container ul {
+        margin: 30px 18px;
+    }
+}
