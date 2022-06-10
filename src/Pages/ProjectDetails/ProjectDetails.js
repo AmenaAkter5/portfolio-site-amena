@@ -29,7 +29,7 @@ const ProjectDetails = () => {
                 <li>{project.des6}</li>
             </ul>
 
-            <p>Technology Used: {project.technology}</p>
+            <p className='text-white'>Technology Used: {project.technology}</p>
 
             <a className='anchor' href={project.live}>Live</a>
             {project.server ? <a className='anchor' href={project.client}>GitHub Client</a> : <a className='anchor' href={project.client}>GitHub Code Link</a>}
