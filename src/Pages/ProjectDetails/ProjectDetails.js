@@ -30,7 +30,7 @@ const ProjectDetails = () => {
             </ul>
 
             <a className='anchor' href={project.live}>Live</a>
-            <a className='anchor' href={project.client}>GitHub Client</a>
+            {project.server ? <a className='anchor' href={project.client}>GitHub Client</a> : <a className='anchor' href={project.client}>GitHub Code Link</a>}
             {project.server && <a className='anchor' href={project.server}>Github Server</a>}
 
         </div>
