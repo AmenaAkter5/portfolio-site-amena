@@ -5,7 +5,7 @@ import './Banner.css'
 const Banner = () => {
     return (
         <section className='banner-section'>
-            <div className='d-flex items-center'>
+            <div className='d-flex justify-center'>
                 <img src={image} alt="Manik Islam Mahi" />
             </div>
             <div className='description'>
