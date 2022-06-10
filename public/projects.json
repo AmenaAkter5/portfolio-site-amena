@@ -1,32 +1,88 @@
 [
     {
-        "id": "1",
-        "name": "Study Hacks Corner",
-        "message": "Apple Smart Watch 7 will be perfect for you. When you wear Apple Watch you get a fitness partner, meaningful health insights, and a connection to what you care about most."
+        "img1": "https://i.ibb.co/h9jp5by/Screenshot-291.png",
+        "img2": "https://i.ibb.co/HB206W3/Screenshot-292.png",
+        "img3": "https://i.ibb.co/x67SwkJ/Screenshot-293.png",
+        "name": "Fresh Fruit Warehouse",
+        "des1": "This is a complete Warehouse Management application.",
+        "des2": "This Warehouse provides different types of storing packages of fruits according to the demand of clients.",
+        "des3": "Here various dealers can store their fruits by paying a proper rent fee.",
+        "des4": "Clients can add his items updated data by logging in this site.",
+        "des5": "Users can Sign Up and Sign in via email and password and directly Sign in through google.",
+        "des6": "Users data is secure by Json Web Token. There is no fear of information being stolen.",
+        "live": "https://warehouse-management-e55db.web.app/",
+        "client": "https://github.com/AmenaAkter5/warehouse-management-client-side",
+        "server": "https://github.com/AmenaAkter5/warehouse-management-server-side"
     },
     {
-        "id": "2",
-        "name": "Tools Hunter Manufacture LTD.",
-        "message": "Apple Watch Nike will be perfect for you. When you wear Apple Watch you get a fitness partner.  You will no longer be single."
+        "img1": "https://i.ibb.co/yq7Pv81/Screenshot-303.png",
+        "img2": "https://i.ibb.co/K0nXs6b/Screenshot-304.png",
+        "img3": "https://i.ibb.co/xH2MdLm/Screenshot-307.png",
+        "name": "Toolsify Manufacturer Ltd.",
+        "des1": "This is the website of a tool manufacturing company that makes various tools and provides to dealers.",
+        "des2": "This Manufacturer company supply different tools and collect digital payment from customers.",
+        "des3": " After Signing in, the user can place an order and view his dashboard, where he can confirm this order.",
+        "des4": "This Project's has the special feature for admin. Admin who are authorized to maintain to update the product's data and stores data.",
+        "des5": "Users can Sign Up and Sign in via email and password and directly Sign in through google.",
+        "des6": "Users data is secure by Json Web Token. There is no fear of information being stolen.",
+        "live": "https://tools-manufacturer-6cab0.web.app/",
+        "client": "https://github.com/AmenaAkter5/tools-manufacturer-client-sidet",
+        "server": "https://github.com/AmenaAkter5/tools-manufacturer-server-side"
     },
     {
-        "id": "3",
-        "name": "Fresh Fruits Warehouse",
-        "message": "Apple Watch Hermès will be perfect for you. When you wear Apple Watch you get a fitness partner, meaningful health insights, and a connection to what you care about most."
+        "img1": "https://i.ibb.co/1b6NbkV/Screenshot-297.png",
+        "img2": "https://i.ibb.co/tL4yc7N/Screenshot-298.png",
+        "img3": "https://i.ibb.co/4ptMqWX/Screenshot-299.png",
+        "name": "Healer",
+        "des1": "This is the Project of a single service prvider.",
+        "des2": "Here I make a project for physiotherapist who is the Healer of different people's physical pain.",
+        "des3": "Physiotherapist provides different types of therapies according to the demand of clients. So, the services name and price is updated in this site.",
+        "des4": "Clients can book the appointment of the physiotherapist.",
+        "des5": "Clents testimonials are added which will enhance the reliability of new clients.",
+        "des6": "Here users can Sign Up and Sign in via email and password and directly Sign in through google.",
+        "live": "https://independent-service-prov-1f0bd.web.app/",
+        "client": "https://github.com/AmenaAkter5/assignment-10-service-provider"
     },
     {
-        "id": "4",
+        "img1": "https://i.ibb.co/k313xkB/Screenshot-312.png",
+        "img2": "https://i.ibb.co/yPsNBTc/Screenshot-314.png",
+        "img3": "https://i.ibb.co/r243yG6/Screenshot-327.png",
         "name": "Shoes Mania",
-        "message": "Apple Watch Series 3 will be perfect for you. When you wear Apple Watch you get a fitness partner, meaningful health insights, and a connection to what you care about most."
+        "des1": "This is the Product analysis web application.",
+        "des2": "Here I make reveiw and display the user reviews about Nike Shoes.",
+        "des3": "This Project is done by Reactjs which is very popular js library.",
+        "des4": "In this project the React Router is applied which is also popular to make a Single Page Application (SPA).",
+        "des5": "Rechart is used in this project to make dynamic chart to visualise the performance according to recorded data.",
+        "des6": "Users testimonials are added which will enhance the reliability of new users.",
+        "live": "https://shoes-mania.netlify.app/",
+        "client": "https://github.com/MagicManik/shoes-mania"
     },
     {
-        "id": "5",
-        "name": "Magic Manik Portfolio",
-        "message": "Apple Watch SE will be perfect for you. When you wear Apple Watch you get a fitness partner, meaningful health insights, and a connection to what you care about most."
-    },
-    {
-        "id": "6",
+        "img1": "https://i.ibb.co/02shVH1/Screenshot-330.png",
+        "img2": "https://i.ibb.co/bmj7LPw/Screenshot-323.png",
+        "img3": "https://i.ibb.co/9brVn1T/Screenshot-324.png",
         "name": "Gadget Hero",
-        "message": "Apple Watch Love Bird will be perfect for you. When you wear Apple Watch you get a fitness partner, meaningful health insights, and a connection to what you care about most."
+        "des1": "This is the Random Gadget Selector Application.",
+        "des2": "It chooses gadget for the user randomly.",
+        "des3": "Here have many options to choose. Users firstly select some options mainly.",
+        "des4": "This is interesting selector application.",
+        "des5": "User provides many options and then it selects one gadget from them randomly.",
+        "des6": "Users get solution to choose one from many options easily.",
+        "live": "https://gadget-hero.netlify.app/",
+        "client": "https://github.com/MagicManik/gadget-hero"
+    },
+    {
+        "img1": "https://i.ibb.co/sRCSX4y/Screenshot-319.png",
+        "img2": "https://i.ibb.co/dbygy4t/Screenshot-320.png",
+        "img3": "https://i.ibb.co/37NGyGR/Screenshot-321.png",
+        "name": "Magic Manik (Portfolio)",
+        "des1": "This is my Portfolio site.",
+        "des2": "This application provides the information about me to introduce myself in real world",
+        "des3": "The best projects of mine which I have designed are attached here with valid referrence.",
+        "des4": "Project details page describes the project to who want to reach out me.",
+        "des5": "My mailing address is attached to reach out me easily.",
+        "des6": "I described about myself to get an ideal recruiter who can provide me the perfect work environment as my cultural growth.",
+        "live": "https://magicmanik.netlify.app/",
+        "client": "https://github.com/MagicManik/magic-manik-client"
     }
 ]

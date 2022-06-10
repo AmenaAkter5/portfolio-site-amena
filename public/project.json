@@ -10,6 +10,7 @@
         "des4": "Clients can add his items updated data by logging in this site.",
         "des5": "Users can Sign Up and Sign in via email and password and directly Sign in through google.",
         "des6": "Users data is secure by Json Web Token. There is no fear of information being stolen.",
+        "technology": "React.js, React Router, JavaScript (ES6), Node.js, Express.js, Mongodb, Firebase, HTML, CSS, Bootstrap-5.",
         "live": "https://warehouse-management-e55db.web.app/",
         "client": "https://github.com/AmenaAkter5/warehouse-management-client-side",
         "server": "https://github.com/AmenaAkter5/warehouse-management-server-side"
@@ -25,6 +26,7 @@
         "des4": "This Project's has the special feature for admin. Admin who are authorized to maintain to update the product's data and stores data.",
         "des5": "Users can Sign Up and Sign in via email and password and directly Sign in through google.",
         "des6": "Users data is secure by Json Web Token. There is no fear of information being stolen.",
+        "technology": "React.js, React Router, JavaScript (ES6), Node.js, Express.js, Mongodb, Firebase, HTML, CSS, Tailwind CSS, Daisy Ui (Tailwind CSS component).",
         "live": "https://tools-manufacturer-6cab0.web.app/",
         "client": "https://github.com/AmenaAkter5/tools-manufacturer-client-sidet",
         "server": "https://github.com/AmenaAkter5/tools-manufacturer-server-side"
@@ -40,6 +42,7 @@
         "des4": "Clients can book the appointment of the physiotherapist.",
         "des5": "Clents testimonials are added which will enhance the reliability of new clients.",
         "des6": "Here users can Sign Up and Sign in via email and password and directly Sign in through google.",
+        "technology": "React.js, React Router, JavaScript (ES6), HTML, CSS, Bootstrap-5.",
         "live": "https://independent-service-prov-1f0bd.web.app/",
         "client": "https://github.com/AmenaAkter5/assignment-10-service-provider"
     },
@@ -54,6 +57,7 @@
         "des4": "In this project the React Router is applied which is also popular to make a Single Page Application (SPA).",
         "des5": "Rechart is used in this project to make dynamic chart to visualise the performance according to recorded data.",
         "des6": "Users testimonials are added which will enhance the reliability of new users.",
+        "technology": "React.js, React Router, JavaScript (ES6), HTML, CSS, Bootstrap-5.",
         "live": "https://code-man.netlify.app/",
         "client": "https://github.com/AmenaAkter5/assignment-9-product-analysis"
     },
@@ -68,6 +72,7 @@
         "des4": "This is interesting selector application.",
         "des5": "User provides many options and then it selects one from them randomly.",
         "des6": "Users get solution to choose one from many options easily.",
+        "technology": "React.js, JavaScript (ES6), HTML, CSS, Bootstrap-5.",
         "live": "https://selector-master-assignment.netlify.app/",
         "client": "https://github.com/AmenaAkter5/assignment-8-selector-master"
     },
@@ -82,6 +87,7 @@
         "des4": "The sidenav of this application is functionalized by JavaScript.",
         "des5": "Salon's location, opening hours data is available on website.",
         "des6": "Clients testimonials are added which will enhance the reliability of new clients.",
+        "technology": "JavaScript (ES6), HTML, CSS, Bootstrap-5.",
         "live": "https://amenaakter5.github.io/sylish-salon-own/",
         "client": "https://github.com/AmenaAkter5/sylish-salon-own"
     }
