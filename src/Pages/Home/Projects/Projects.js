@@ -23,8 +23,8 @@ const Projects = () => {
     return (
         <section className='project-section'>
             <div>
-                <h5 className='text-center fw-bold'>BEST Projects</h5>
-                <h2 className='text-center gradient-text-one'>Projects of Amena Akter</h2>
+                <h4 className='text-center fw-bold'>BEST Projects</h4>
+                <h1 className='text-center gradient-text-one'>Projects of Amena Akter</h1>
             </div>
             <div className='project-container'>
 
@@ -38,55 +38,6 @@ const Projects = () => {
                             </div>
                         </div>)
                 }
-
-                {/* <div>
-                    <div className='project'>
-                        <a href="/"><img src={tools} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(1)}>Explore More</button>
-                    </div>
-
-                </div>
-                <div>
-                    <div className='project'>
-                        <a href="/"><img src={fruits} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(2)}>Explore More</button>
-                    </div>
-
-                </div>
-                <div>
-                    <div className='project'>
-                        <a href="/"><img src={healer} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(3)}>Explore More</button>
-                    </div>
-
-                </div>
-                <div>
-                    <div className='project'>
-                        <a href="/"><img src={code} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(4)}>Explore More</button>
-                    </div>
-
-                </div>
-                <div>
-                    <div className='project'>
-                        <a href="/"><img src={selector} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(5)}>Explore More</button>
-                    </div>
-
-                </div>
-                <div>
-                    <div className='project'>
-                        <a href="/"><img src={salon} alt="" /></a>
-                        <p className='px-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui sapiente totam omnis reprehenderit tenetur. Fugiat enim, doloremque</p>
-                        <button onClick={() => handleDetails(6)}>Explore More</button>
-                    </div>
-
-                </div> */}
             </div>
         </section>
     );
