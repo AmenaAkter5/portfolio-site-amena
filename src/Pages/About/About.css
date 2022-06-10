@@ -1,5 +1,19 @@
-.about-section p {
-    margin: 20px 120px 10px 120px;
+.about-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-me {
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 20px 30px;
+    text-align: justify;
+    width: 800px;
+    box-shadow: 2px 2px 5px #BABECC, 2px 2px 5px #BABECC;
+    box-sizing: border-box;
+    background-color: white;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 576px) {

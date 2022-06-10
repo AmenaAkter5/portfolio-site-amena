@@ -6,8 +6,10 @@ const About = () => {
     return (
         <section className='about-section'>
             <h1 className='text-center fw-bold pt-5 my-3'>About</h1>
+            <div className='about-box'>
+            <div className='about-me'>
             <p>
-                I am a Front End Web Developer, Graphic Designer and SEO Guidance. I love to work with dedication, and I always try to get people's love with my work. My strong suit is Front End Web Development with React Js, HTML & CSS, JavaScript, BootStrap 5, Tailwind, DaisyUi and Recharts.to me.
+                I am a Front End Web Developer. And I always try to get people's love with my work. My strong suit is Front End Web Development with React Js, HTML & CSS, JavaScript, BootStrap 5, Tailwind, DaisyUi and Recharts.to me.
 
 
                 I am very much eager to learn anything which is interesting
@@ -24,6 +26,8 @@ const About = () => {
                 So if you think we can work together and do something great, then feel free to give me a knock!
 
             </p>
+            </div>
+            </div>
         </section>
     );
 };
